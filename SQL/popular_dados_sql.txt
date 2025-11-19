@@ -1,0 +1,13 @@
+﻿-- Inserção dos clientes de exemplo para manter a lista preenchida
+
+INSERT INTO clientes (nome, cpf, telefone, endereco, email) VALUES
+('João Silva', '12345678901', '11999998888', 'Rua A, 123', 'joao.silva@gmail.com'),
+('Maria Santos', '23456789012', '11988887777', 'Av. B, 456', 'maria.santos@yahoo.com'),
+('Carlos Pereira', '34567890123', '11977776666', 'Rua C, 789', 'carlos.pereira@hotmail.com'),
+('Ana Oliveira', '45678901234', '11966665555', 'Av. D, 101', 'ana.oliveira@gmail.com'),
+('Bruno Lima', '56789012345', '11955554444', 'Rua E, 202', 'bruno.lima@yahoo.com'),
+('Fernanda Costa', '67890123456', '11944443333', 'Av. F, 303', 'fernanda.costa@gmail.com'),
+('Ricardo Souza', '78901234567', '11933332222', 'Rua G, 404', 'ricardo.souza@hotmail.com'),
+('Patrícia Rocha', '89012345678', '11922221111', 'Av. H, 505', 'patricia.rocha@gmail.com'),
+('Thiago Martins', '90123456789', '11911110000', 'Rua I, 606', 'thiago.martins@yahoo.com'),
+('Juliana Almeida', '01234567890', '11900009999', 'Av. J, 707', 'juliana.almeida@gmail.com');

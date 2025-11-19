@@ -95,28 +95,28 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FrmEsqueciSenha.cs">
+    <Compile Include="Forms\FrmEsqueciSenha.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmEsqueciSenha.Designer.cs">
+    <Compile Include="Forms\FrmEsqueciSenha.Designer.cs">
       <DependentUpon>FrmEsqueciSenha.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmCadastroCliente.cs">
+    <Compile Include="Forms\FrmCadastroCliente.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmCadastroCliente.Designer.cs">
+    <Compile Include="Forms\FrmCadastroCliente.Designer.cs">
       <DependentUpon>FrmCadastroCliente.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmLogin.cs">
+    <Compile Include="Forms\FrmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmLogin.Designer.cs">
+    <Compile Include="Forms\FrmLogin.Designer.cs">
       <DependentUpon>FrmLogin.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmMenu.cs">
+    <Compile Include="Forms\FrmMenu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmMenu.Designer.cs">
+    <Compile Include="Forms\FrmMenu.Designer.cs">
       <DependentUpon>FrmMenu.cs</DependentUpon>
     </Compile>
     <Compile Include="Funcoes\ConexaoBD.cs" />
@@ -124,16 +124,16 @@
     <Compile Include="Funcoes\Logger.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="FrmEsqueciSenha.resx">
+    <EmbeddedResource Include="Forms\FrmEsqueciSenha.resx">
       <DependentUpon>FrmEsqueciSenha.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmCadastroCliente.resx">
+    <EmbeddedResource Include="Forms\FrmCadastroCliente.resx">
       <DependentUpon>FrmCadastroCliente.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmLogin.resx">
+    <EmbeddedResource Include="Forms\FrmLogin.resx">
       <DependentUpon>FrmLogin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FrmMenu.resx">
+    <EmbeddedResource Include="Forms\FrmMenu.resx">
       <DependentUpon>FrmMenu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">

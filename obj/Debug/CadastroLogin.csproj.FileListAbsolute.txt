@@ -42,3 +42,4 @@ C:\Users\alinn\Downloads\ProjetoSemestral-main\ProjetoSemestral-main\CadastroC#\
 C:\Users\alinn\Downloads\ProjetoSemestral-main\ProjetoSemestral-main\CadastroC#\obj\Debug\Cadastro.630DBA76.Up2Date
 C:\Users\alinn\Downloads\ProjetoSemestral-main\ProjetoSemestral-main\CadastroC#\obj\Debug\CadastroC#.exe
 C:\Users\alinn\Downloads\ProjetoSemestral-main\ProjetoSemestral-main\CadastroC#\obj\Debug\CadastroC#.pdb
+C:\Users\alinn\Downloads\ProjetoSemestral-main\ProjetoSemestral-main\CadastroC#\obj\Debug\CadastroC#.exe.config
